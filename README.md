@@ -8,7 +8,8 @@ by: **Jefferson Rodriguez and Grayson Wade**
 
 Getting Started These instructions will guide you through the process of setting up and applying the syntax coloring theme.
 
-**Pre-requisites**
+**Pre-requisites:**
+
 Visual Studio Code
 
 **Installation:**
