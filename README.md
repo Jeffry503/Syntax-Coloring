@@ -2,7 +2,7 @@
 
 by: **Jefferson Rodriguez and Grayson Wade**
 
-**Syntax Coloring** is a project that provides a custom syntax coloring theme for Visual Studio Code. It support multiple languages.
+**Syntax Coloring** is a project that provides a custom syntax coloring theme for Visual Studio Code. It supports multiple languages.
 
 ## Follow the instructions below to apply the theme to your code:
 
