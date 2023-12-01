@@ -15,7 +15,6 @@ Visual Studio Code
 
 -  **Download the project ZIP file.**
 -  **Unzip the file in your desired folder.**
--  **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments.**
 -  **1. Open Visual Studio Code.**
 -  **2. Open a file or create a new one.**
 -  **3. Head to the folder where you unzipped the project and find the "Syntax-Coloring" folder.**
